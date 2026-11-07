@@ -1,10 +1,15 @@
 {
-  "update": 8,
-  "title": "Update 8",
+  "update": 9,
+  "title": "Update 9",
   "whatsNew": [
-    "New content and fixes"
+    "New missions; The Wrong Jedi, Battle of Hoth, and A Jedi in Hiding.",
+    "New gameplay mechanics; air dash, weapon holstering, and saber smash.",
+    "Improved controller support.",
+    "Overhauled Force Power and Weapon Wheels.",
+    "New characters and duel maps.",
+    "Bug fixes and optimisations."
   ],
   "moddb": "https://www.moddb.com/mods/movie-duels/downloads",
   "nexus": "https://www.nexusmods.com/starwarsjediknightjediacademy/mods/45?tab=files",
-  "article": null
+  "article": "update-8"
 }

@@ -1,13 +1,13 @@
 {
   "articles": [
     {
-      "id": "update-7",
+      "id": "update-8",
       "tag": "Update",
-      "date": "30 Dec 2025",
-      "title": "Update 7 is LIVE!",
-      "summary": "This new update brings new missions, characters, modes and more. Click here for more details.",
-      "image": "news/update7.jpg",
-      "file": "news/update7.html"
+      "date": "07 Nov 2026",
+      "title": "UPDATE 8 IS HERE!",
+      "summary": "This update focuses on new missions, gameplay mechanics, characters, optimisations, and bug fixes!",
+      "image": "news/update8.jpg",
+      "file": "news/update8.html"
     }
   ]
 }
