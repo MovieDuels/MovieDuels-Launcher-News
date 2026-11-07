@@ -8,6 +8,15 @@
       "summary": "This update focuses on new missions, gameplay mechanics, characters, optimisations, and bug fixes!",
       "image": "news/update8.jpg",
       "file": "news/update8.html"
+    },
+    {
+      "id": "test1",
+      "tag": "Test",
+      "date": "05 Nov 2026",
+      "title": "TEST ARTICLE",
+      "summary": "This is a test article for demonstration purposes.",
+      "image": "news/test.jpg",
+      "file": "news/test.html"
     }
   ]
 }
