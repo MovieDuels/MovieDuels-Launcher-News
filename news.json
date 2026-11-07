@@ -10,13 +10,13 @@
       "file": "news/update8.html"
     },
     {
-      "id": "test1",
-      "tag": "Test",
-      "date": "05 Nov 2026",
-      "title": "TEST ARTICLE",
-      "summary": "This is a test article for demonstration purposes.",
-      "image": "news/test.jpg",
-      "file": "news/test.html"
+      "id": "making-movie-duels",
+      "tag": "YouTube",
+      "date": "01 Oct 2026",
+      "title": "THE MAKING OF MOVIE DUELS",
+      "summary": "To celebrate and honour the original mod by Wector, we look back on the history of Movie Duels.",
+      "image": "news/makingOfMovieDuels.jpg",
+      "file": "news/makingOfMovieDuels.html"
     }
   ]
 }
