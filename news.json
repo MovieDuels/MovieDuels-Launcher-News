@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "update-8-hotfix",
+      "tag": "Hotfix",
+      "date": "11 Nov 2026",
+      "title": "UPDATE 8 HOTFIX",
+      "summary": "We have reuploaded Update 8 to ModDB and Nexus Mods with several bug fixes and small improvements.",
+      "image": "news/update8Hotfix.jpg",
+      "file": "news/update8Hotfix.html"
+    },
+    {
       "id": "update-8",
       "tag": "Update",
       "date": "08 Nov 2026",
